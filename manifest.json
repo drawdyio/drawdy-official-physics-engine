@@ -1,0 +1,9 @@
+{
+  "driverId": "drawdy.physics-engine",
+  "driverName": "Physics Engine",
+  "driverVersion": "1.0.0",
+  "description": "Simulate elements as 2D rigid bodies. Tag shapes as Dynamic or Static, drop them into a sandbox with gravity and collisions, and commit where they land as a single undo step.",
+  "main": "main.js",
+  "icon": "assets/icon.svg",
+  "permissions": ["dom", "scene"]
+}
