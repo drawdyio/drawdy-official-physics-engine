@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1
+
+### Fixed
+
+- Installing no longer fails when the permission prompt is dismissed. The extension now installs and simply waits for permission, instead of aborting with an unreadable error.
+- The Physics menu appears on its own once permission is granted, without reloading the board.
+
 ## 1.0.0
 
 First release.
